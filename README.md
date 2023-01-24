@@ -1,6 +1,6 @@
 <div display="flex" fleDirection="row">
-  <img src="https://media.giphy.com/media/TO5meWLySRoZg0GX99/giphy.gif" width="60px"/>
-  <img src="https://komarev.com/ghpvc/?username=mike-tyred&style=flat-square&color=blue" alt=""/>
+  <img src="https://media.giphy.com/media/TO5meWLySRoZg0GX99/giphy.gif" width="100px"/>
+  <img src="https://komarev.com/ghpvc/?username=eduardo-re&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Eduardo Reyes</h1>
