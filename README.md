@@ -37,7 +37,7 @@
 </div>
 
 <div align="left">
-  <h2>My Stats</h2>
+  <h2>📊 My Stats</h2>
 </div>
 
 [![Top
