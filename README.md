@@ -40,8 +40,8 @@
   <h2>📊 My Stats</h2>
 </div>
 
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-re&layout=compact&theme=gotham&hide_border=true&card_width=10)](https://github.com/anuraghazra/github-readme-stats)
+![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-re&layout=compact&theme=gotham&hide_border=true&card_width=10)
 
-![Anurag's GitHub
+![Eduardo-RE's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=eduardo-re&show_icons=true&theme=gotham&hide_border=true)
