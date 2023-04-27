@@ -7,8 +7,8 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200px"/>
-<h3>A frontend developer from Mexico <img src="https://media.giphy.com/media/KEMRnQeoGymBRvuAn4/giphy.gif" width="40px" /></h3>
-  <a href="https://linkedin.com/in/eduardo reyes" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="eduardo reyes" height="30" width="40" /></a>
+<h3>Programmer from Mexico <img src="https://media.giphy.com/media/KEMRnQeoGymBRvuAn4/giphy.gif" width="40px" /></h3>
+  <a href="[https://linkedin.com/in/eduardo reyes](https://www.linkedin.com/in/eduardo-reyes-a1b845225)" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="eduardo reyes" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/20694458/eduardo-reyes-espinoza" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="eduardo reyes espinoza" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/20694458/eduardo-reyes-espinoza" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="eduardo reyes espinoza" height="30" width="40" /></a>
   <a href="https://fb.com/eduardo reyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eduardo reyes" height="30" width="40" /></a>
